@@ -1,2 +1,2 @@
-# lsp-kuso
+# lsp-kusto
 lsp-mode for kusto
